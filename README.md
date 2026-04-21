@@ -1,6 +1,6 @@
 # Adaptive Traffic Signal Control via RL with Eligibility Traces
 
-**CS 5180 — Reinforcement Learning, Spring 2026**  
+**CS 5180 - Reinforcement Learning, Spring 2026**  
 Akshita Singh · Pranav Rajesh Nair  
 Northeastern University, Khoury College of Computer Sciences
 
